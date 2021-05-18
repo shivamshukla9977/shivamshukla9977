@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamshukla
+- 👋 Hi, I’m Shivam Shukla -> @shivamshukls9977
 - 👀 I’m interested in working on Ruby, Rails, Html, Css, Bootstrap
 - 🌱 I’m currently learning Reactjs, Nodejs
 - 📫 How to reach me : email me on skshukla9977@gmail.com
